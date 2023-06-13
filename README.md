@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - [Solution](https://github.com/ragonscreen/frontend-mentor-profile-card-component)
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://ragonscreen.github.io/frontend-mentor-profile-card-component/)
 
 ## My process
 
