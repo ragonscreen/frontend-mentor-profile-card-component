@@ -124,7 +124,7 @@ body > img:last-of-type {
     font-size: var(--font-size-tiny);
     font-weight: 400;
     letter-spacing: 0.2em;
-    color:hsl(var(--clr-text-secondary), 0.9)
+    color:hsl(var(--clr-text-secondary), 0.9);
 }
 
 .attribution {
